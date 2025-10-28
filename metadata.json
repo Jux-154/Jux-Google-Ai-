@@ -1,0 +1,8 @@
+{
+  "name": "Jux",
+  "description": "A stylized, no-account ChatGPT clone with advanced AI features. Engage in conversations, generate images and videos, analyze content, and more, with all history stored locally.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
